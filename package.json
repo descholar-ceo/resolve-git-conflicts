@@ -1,0 +1,9 @@
+{
+  "name": "resolve-git-conflicts",
+  "version": "1.0.0",
+  "description": "This is a sample project of educational purpose for showcasing how to resolve git merge conflicts after rebase operation",
+  "main": "index.js",
+  "repository": "https://github.com/descholar-ceo/resolve-git-conflicts",
+  "author": "descholar",
+  "license": "MIT"
+}
